@@ -8,7 +8,7 @@ numero = int(input('informe um número inteiro: '))
 
 while numero >= 0:
     os.system('cls')
-    print('\n Contagem Regressiva: ')
+    print('\nContagem Regressiva: ')
     print(f'{numero}...')
     numero -= 1
     time.sleep(0.2)
