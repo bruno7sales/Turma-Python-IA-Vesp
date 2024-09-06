@@ -19,4 +19,4 @@ numbers = list(range(1, 21))
 # Verifica quais números são primos
 primes = [num for num in numbers if is_prime(num)]
 
-print("Números primos de 1 a 20:", primes)
+print("Números primos de 1 a 20:", primes) 
