@@ -11,6 +11,6 @@ if __name__ == '__main__':
     usuario = cl.Pessoa(nome, idade, email)
     
     # Saída de Dados
-    print(f'Nome: {usuario.__nome}.')
-    print(f'Idade: {usuario.__idade}.')
-    print(f'E-mail: {usuario.__email}.') 
+    print(f'Nome: {usuario.nome}.')
+    print(f'Idade: {usuario.idade}.')
+    print(f'E-mail: {usuario.email}.') 
