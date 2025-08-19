@@ -5,7 +5,7 @@ from pessoa import *
 from manipulador import *
 
 if __name__ == "__main__":
-    # imstancia os objetos
+    # instancia os objetos
     p = Pessoa(0,'','','','')
     m = Manipulador()
 
